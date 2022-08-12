@@ -2,7 +2,7 @@
 
 
 
-Encode url symbols to be s3 compatible in Python
+Decode url symbols to be s3 compatible in Python
 
 
 ## Code of conduct

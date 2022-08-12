@@ -16,7 +16,7 @@ setup(
     name="S3Decoder-python",
     version=VERSION,
     author="Puja Adak",
-    author_email="<pjmoon066@gmail.com>",
+    author_email="",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
